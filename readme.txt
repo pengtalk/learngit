@@ -5,3 +5,4 @@ git tracks change of files.
 createing a new branch is quick
 my name
 user
+create a new branch is quick and simple
